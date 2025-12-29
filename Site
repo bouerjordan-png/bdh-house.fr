@@ -16,11 +16,3 @@ body {
   text-align: center;
   margin-top: 50px;
 }
-
-cd mon-site
-git init
-git add .
-git commit -m "Premier commit"
-git branch -M main
-git remote add origin https://github.com/TON_UTILISATEUR/mon-site.git
-git push -u origin main
