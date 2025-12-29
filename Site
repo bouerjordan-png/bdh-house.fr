@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mon Site</BDH HOUSE>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Bonjour, Vercel !</h1>
-</body>
-</html>
-
+cd mon-site
+git init
+git add .
+git commit -m "Premier commit"
+git branch -M main
+git remote add origin https://github.com/TON_UTILISATEUR/mon-site.git
+git push -u origin main
